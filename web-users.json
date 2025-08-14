@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "Xayztech",
+    "password": "XAYZTECHXYZAGENXYCOOLCRAFT",
+    "role": "developer"
+  },
+  {
+    "id": 2,
+    "username": "owner1",
+    "password": "passwordowner123",
+    "role": "owner"
+  },
+  {
+    "id": 3,
+    "username": "reseller_abc",
+    "password": "pass_reseller",
+    "role": "reseller"
+  }
+]
